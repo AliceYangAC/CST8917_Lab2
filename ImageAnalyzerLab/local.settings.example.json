@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true", 
+    "ImageStorageConnection": "UseDevelopmentStorage=true"
+  },
+  "Host": {
+    "CORS": "*"
+  }
+}
+
